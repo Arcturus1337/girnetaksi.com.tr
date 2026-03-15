@@ -14,10 +14,10 @@ document.addEventListener('DOMContentLoaded', () => {
         }, 800);
     });
 
-    // Fallback: hide preloader after 3 seconds  
+    // Fallback: hide preloader after 1 second (LCP performance fix)
     setTimeout(() => {
         preloader.classList.add('hidden');
-    }, 3000);
+    }, 1000);
 
     // ==================== MOBILE NAVIGATION ====================
     const navToggle = document.getElementById('nav-toggle');

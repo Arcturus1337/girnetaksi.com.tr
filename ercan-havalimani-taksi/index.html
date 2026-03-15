@@ -3,25 +3,67 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ercan Havalimani Taksi | Girne ve Tüm Kıbrıs'ta Hizmetinizdeyiz</title>
-    <meta name="description" content="Ercan Havalimani Taksi ihtiyaçlarınız için bölgenin en tecrübeli taksi durağı. 7/24 hizmet, VIP transfer ve daha fazlası. Hemen iletişime geçin!">
+    <title>Ercan Havalimanı Taksi Arayanlar İçin En İyi Seçenek</title>
+    <meta name="description" content="Ercan Havalimanı Taksi mı arıyorsunuz? Girne Taksi olarak temiz araçlarımız ve deneyimli şoför kadromuzla yanınızdayız.">
     <meta name="robots" content="index, follow">
+        <link rel="alternate" hreflang="tr" href="https://www.girnetaksi.com.tr/ercan-havalimani-taksi/">
     <link rel="canonical" href="https://www.girnetaksi.com.tr/ercan-havalimani-taksi/">
     <link rel="icon" type="image/png" href="/images/logo.png">
-    
+    <link rel="apple-touch-icon" href="/images/logo.png">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.girnetaksi.com.tr/ercan-havalimani-taksi/">
+    <meta property="og:title" content="Ercan Havalimanı Taksi Arayanlar İçin En İyi Seçenek">
+    <meta property="og:description" content="Ercan Havalimanı Taksi mı arıyorsunuz? Girne Taksi olarak temiz araçlarımız ve deneyimli şoför kadromuzla yanınızdayız.">
+    <meta property="og:image" content="https://www.girnetaksi.com.tr/images/hero.png">
+    <meta property="og:locale" content="tr_TR">
+    <meta property="og:site_name" content="Girne Taksi">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Ercan Havalimanı Taksi Arayanlar İçin En İyi Seçenek">
+    <meta name="twitter:description" content="Ercan Havalimanı Taksi mı arıyorsunuz? Girne Taksi olarak temiz araçlarımız ve deneyimli şoför kadromuzla yanınızdayız.">
+    <meta name="twitter:image" content="https://www.girnetaksi.com.tr/images/hero.png">
+
+    <!-- Schema.org LocalBusiness -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "TaxiService",
+        "name": "Girne Taksi",
+        "url": "https://www.girnetaksi.com.tr",
+        "telephone": "+90-533-859-32-06",
+        "image": "https://www.girnetaksi.com.tr/images/logo.png",
+        "description": "Ercan Havalimanı Taksi mı arıyorsunuz? Girne Taksi olarak temiz araçlarımız ve deneyimli şoför kadromuzla yanınızdayız.",
+        "priceRange": "$$",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Girne",
+            "addressRegion": "Kuzey Kıbrıs",
+            "addressCountry": "CY"
+        },
+        "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+            "opens": "00:00",
+            "closes": "23:59"
+        }
+    }
+    </script>
+
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
-    
+
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-    
-    <!-- Original Stylesheet for Variables -->
+
+    <!-- Original Stylesheet -->
     <link rel="stylesheet" href="/style.css">
-    
+
     <style>
-        /* UNIQUE SEO PAGE LAYOUT STYLES - DIFFERENT FROM INDEX.HTML */
         :root {
             --seo-bg: #f8fafc;
             --seo-surface: #ffffff;
@@ -29,220 +71,66 @@
             --seo-text: var(--text-color, #333333);
             --seo-light: #64748b;
         }
-        
-        body {
-            background-color: var(--seo-bg);
-            font-family: 'Inter', sans-serif;
-            margin: 0;
-            padding: 0;
-            color: var(--seo-text);
-        }
-
-        /* Clean Navbar specific for SEO pages */
-        .seo-nav {
-            background: var(--seo-surface);
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-            padding: 1rem 0;
-            position: sticky;
-            top: 0;
-            z-index: 1000;
-        }
-        .seo-nav .container {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 2rem;
-        }
-        .seo-logo img {
-            height: 50px;
-        }
-        .seo-nav-cta {
-            background: var(--seo-primary);
-            color: #fff;
-            padding: 0.75rem 1.5rem;
-            border-radius: 8px;
-            text-decoration: none;
-            font-weight: 600;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            transition: all 0.3s;
-        }
-        .seo-nav-cta:hover {
-            background: #e69d2f;
-            transform: translateY(-2px);
-        }
-
-        /* Hero Banner Split Layout */
-        .seo-hero {
-            background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
-            color: white;
-            padding: 4rem 2rem;
-            text-align: center;
-        }
-        .seo-hero h1 {
-            font-family: 'Outfit', sans-serif;
-            font-size: clamp(2rem, 5vw, 3.5rem);
-            margin-bottom: 1rem;
-            line-height: 1.2;
-        }
-        .seo-hero h1 span {
-            color: var(--seo-primary);
-        }
-        .seo-hero p {
-            font-size: 1.2rem;
-            opacity: 0.9;
-            max-width: 700px;
-            margin: 0 auto 2rem;
-        }
-
-        /* Two Column Content Layout */
-        .seo-content-wrapper {
-            max-width: 1200px;
-            margin: -3rem auto 4rem;
-            padding: 0 2rem;
-            display: grid;
-            grid-template-columns: 2fr 1fr;
-            gap: 2rem;
-        }
-
-        .seo-main-article {
-            background: var(--seo-surface);
-            padding: 3rem;
-            border-radius: 16px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.05);
-        }
-        
-        .seo-main-article h2 {
-            font-family: 'Outfit', sans-serif;
-            color: #1e293b;
-            margin-top: 0;
-            font-size: 2rem;
-            border-bottom: 3px solid var(--seo-primary);
-            padding-bottom: 0.5rem;
-            display: inline-block;
-        }
-        
-        .seo-main-article p {
-            line-height: 1.8;
-            color: #475569;
-            font-size: 1.05rem;
-            margin-bottom: 1.5rem;
-        }
-
-        /* Feature Grid within content */
-        .seo-features-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 1.5rem;
-            margin: 2.5rem 0;
-        }
-        
-        .seo-feature-card {
-            background: #f1f5f9;
-            padding: 1.5rem;
-            border-radius: 12px;
-            border-left: 4px solid var(--seo-primary);
-            transition: transform 0.3s;
-        }
-        .seo-feature-card:hover {
-            transform: translateY(-5px);
-        }
-        .sf-icon {
-            font-size: 2rem;
-            color: var(--seo-primary);
-            margin-bottom: 1rem;
-        }
-        .seo-feature-card h4 {
-            margin: 0 0 0.5rem;
-            color: #1e293b;
-        }
-        .seo-feature-card p {
-            margin: 0;
-            font-size: 0.95rem;
-        }
-
-        /* Sidebar Layout */
-        .seo-sidebar .sidebar-widget {
-            background: var(--seo-surface);
-            padding: 2rem;
-            border-radius: 16px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.05);
-            margin-bottom: 2rem;
-        }
-        
-        .contact-widget {
-            text-align: center;
-            background: linear-gradient(to bottom, #ffffff, #fafafa);
-        }
-        .contact-icon-bg {
-            width: 80px;
-            height: 80px;
-            background: rgba(245, 176, 65, 0.1);
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin: 0 auto 1.5rem;
-            color: var(--seo-primary);
-            font-size: 2.5rem;
-        }
-        .sidebar-widget h3 {
-            font-family: 'Outfit', sans-serif;
-            margin-top: 0;
-            margin-bottom: 1rem;
-            color: #1e293b;
-        }
-        
-        .sidebar-links {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-            max-height: 400px;
-            overflow-y: auto;
-        }
-        .sidebar-links li a {
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            padding: 0.75rem 0;
-            color: var(--seo-light);
-            text-decoration: none;
-            border-bottom: 1px solid #f1f5f9;
-            transition: all 0.2s;
-        }
-        .sidebar-links li a:hover {
-            color: var(--seo-primary);
-            padding-left: 0.5rem;
-        }
-
-        @media (max-width: 992px) {
-            .seo-content-wrapper {
-                grid-template-columns: 1fr;
-            }
-        }
-        
-        .seo-footer {
-            background: #0f172a;
-            color: #94a3b8;
-            text-align: center;
-            padding: 2rem;
-        }
-        .seo-footer a {
-            color: var(--seo-primary);
-            text-decoration: none;
-        }
+        body { background-color: var(--seo-bg); font-family: 'Inter', sans-serif; margin: 0; padding: 0; color: var(--seo-text); }
+        .seo-nav { background: var(--seo-surface); box-shadow: 0 2px 10px rgba(0,0,0,0.05); padding: 1rem 0; position: sticky; top: 0; z-index: 1000; }
+        .seo-nav .container { display: flex; justify-content: space-between; align-items: center; max-width: 1200px; margin: 0 auto; padding: 0 2rem; }
+        .seo-logo img { height: 50px; }
+        .seo-nav-cta { background: var(--seo-primary); color: #fff; padding: 0.75rem 1.5rem; border-radius: 8px; text-decoration: none; font-weight: 600; display: flex; align-items: center; gap: 0.5rem; transition: all 0.3s; }
+        .seo-nav-cta:hover { background: #e69d2f; transform: translateY(-2px); }
+        .seo-hero { background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); color: white; padding: 4rem 2rem; text-align: center; }
+        .seo-hero h1 { font-family: 'Outfit', sans-serif; font-size: clamp(2rem, 5vw, 3.5rem); margin-bottom: 1rem; line-height: 1.2; }
+        .seo-hero h1 span { color: var(--seo-primary); }
+        .seo-hero p { font-size: 1.2rem; opacity: 0.9; max-width: 700px; margin: 0 auto 2rem; }
+        .seo-content-wrapper { max-width: 1200px; margin: -3rem auto 4rem; padding: 0 2rem; display: grid; grid-template-columns: 2fr 1fr; gap: 2rem; }
+        .seo-main-article { background: var(--seo-surface); padding: 3rem; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.05); }
+        .seo-main-article h2 { font-family: 'Outfit', sans-serif; color: #1e293b; margin-top: 0; font-size: 2rem; border-bottom: 3px solid var(--seo-primary); padding-bottom: 0.5rem; display: inline-block; }
+        .seo-main-article h3 { color: #1e293b; margin-top: 2rem; }
+        .seo-main-article p { line-height: 1.8; color: #475569; font-size: 1.05rem; margin-bottom: 1.5rem; }
+        .seo-features-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; margin: 2.5rem 0; }
+        .seo-feature-card { background: #f1f5f9; padding: 1.5rem; border-radius: 12px; border-left: 4px solid var(--seo-primary); transition: transform 0.3s; }
+        .seo-feature-card:hover { transform: translateY(-5px); }
+        .sf-icon { font-size: 2rem; color: var(--seo-primary); margin-bottom: 1rem; }
+        .seo-feature-card h4 { margin: 0 0 0.5rem; color: #1e293b; }
+        .seo-feature-card p { margin: 0; font-size: 0.95rem; }
+        .seo-sidebar .sidebar-widget { background: var(--seo-surface); padding: 2rem; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.05); margin-bottom: 2rem; }
+        .contact-widget { text-align: center; }
+        .contact-icon-bg { width: 80px; height: 80px; background: rgba(245,176,65,0.1); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem; color: var(--seo-primary); font-size: 2.5rem; }
+        .sidebar-widget h3 { font-family: 'Outfit', sans-serif; margin-top: 0; margin-bottom: 1rem; color: #1e293b; }
+        .sidebar-links { list-style: none; padding: 0; margin: 0; max-height: 400px; overflow-y: auto; }
+        .sidebar-links li a { display: flex; align-items: center; gap: 0.5rem; padding: 0.75rem 0; color: var(--seo-light); text-decoration: none; border-bottom: 1px solid #f1f5f9; transition: all 0.2s; font-size: 0.9rem; }
+        .sidebar-links li a:hover { color: var(--seo-primary); padding-left: 0.5rem; }
+        @media (max-width: 992px) { .seo-content-wrapper { grid-template-columns: 1fr; } }
+        .seo-footer { background: #0f172a; color: #94a3b8; text-align: center; padding: 2rem; }
+        .seo-footer a { color: var(--seo-primary); text-decoration: none; }
     </style>
+
+    <!-- BreadcrumbList Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Girne Taksi",
+                "item": "https://www.girnetaksi.com.tr/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Ercan Havalimanı Taksi",
+                "item": "https://www.girnetaksi.com.tr/ercan-havalimani-taksi/"
+            }
+        ]
+    }
+    </script>
 </head>
 <body>
-
-    <!-- Simplified Navbar -->
     <nav class="seo-nav">
         <div class="container">
             <a href="/" class="seo-logo">
-                <img src="/images/logo.png" alt="Girne Taksi">
+                <img src="/images/logo.png" alt="Girne Taksi - Ana Sayfa">
             </a>
             <a href="tel:+905338593206" class="seo-nav-cta">
                 <i class="fas fa-phone-alt"></i> Hemen Ara
@@ -250,55 +138,58 @@
         </div>
     </nav>
 
-    <!-- Custom Hero -->
     <header class="seo-hero">
-        <h1>Ercan Havalimani Taksi <br><span>Kesintisiz Taksi Hizmeti</span></h1>
-        <p>Kuzey Kıbrıs'ta konforlu, güvenilir ve uygun fiyatlı Ercan Havalimani Taksi çözümleri için doğru adrestesiniz. Tek tıkla aracınızı çağırın.</p>
-        <a href="https://wa.me/905338593206" class="btn btn-primary" style="background:var(--seo-primary); border:none; padding:1rem 2rem; color:#1e293b; font-weight:700; border-radius:30px; text-decoration:none; display:inline-flex; align-items:center; gap:10px;">
+        <h1>Ercan Havalimanı Taksi <br><span>Kesintisiz Taksi Hizmeti</span></h1>
+        <p>Kuzey Kıbrıs'ta konforlu, güvenilir ve uygun fiyatlı Ercan Havalimanı Taksi çözümleri için doğru adrestesiniz.</p>
+        <a href="https://wa.me/905338593206" class="btn btn-primary" style="background:var(--seo-primary);border:none;padding:1rem 2rem;color:#1e293b;font-weight:700;border-radius:30px;text-decoration:none;display:inline-flex;align-items:center;gap:10px;">
             <i class="fab fa-whatsapp" style="font-size:1.5rem;"></i> WhatsApp ile Rezervasyon
         </a>
     </header>
 
-    <!-- Content & Sidebar -->
     <div class="seo-content-wrapper">
         <main class="seo-main-article">
-            <h2>Hakkımızda: Ercan Havalimani Taksi</h2>
-            <p><strong>Girne Taksi</strong> olarak, Kıbrıs genelinde profesyonel ulaşım ihtiyaçlarınızı karşılıyoruz. Özellikle <strong>Ercan Havalimani Taksi</strong> arayışınızda sizlere en hızlı ve güvenli yolu sunmak için bölgedeki en yaygın araç filosu ile çalışmaktayız.</p>
-            <p>Havalimanı transferlerinden özel şehir turlarına kadar tüm yolculuklarınızda lüks ve standart araç seçeneklerimizle bütçenize uygun çözümler üretiyoruz. Seyahatlerinizde konfor ve hijyen standartlarını en üst seviyede tutarak, güler yüzlü şoför kadromuzla yanınızdayız.</p>
-            
+            <h2>Ercan Havalimanı Taksi Hizmeti</h2>
+            <p><strong>Girne Taksi</strong>, Kıbrıs genelinde profesyonel ulaşım ihtiyaçlarınızı karşılayan güvenilir taksi hizmetidir. Özellikle <strong>Ercan Havalimanı Taksi</strong> arayanlar için en hızlı ve en güvenli çözümleri sunmaktayız.</p>
+            <p>Kıbrıs'ın en gözde tatil bölgesi olan Girne, tarihi limanı, ortaçağ kalesi ve eşsiz sahil şeridiyle her yıl binlerce turisti ağırlıyor. Bu güzel şehirde konforlu ve güvenilir bir ulaşım ortağına ihtiyaç duyuyorsanız, Girne Taksi tam da aradığınız çözüm.</p>
+            <p>Havalimanı transferlerinden şehirlerarası seyahatlere, VIP transferlerden günlük şehir içi ulaşıma kadar tüm hizmetlerimizde kalite ve müşteri memnuniyeti ön plandadır. Deneyimli şoförlerimiz ve bakımlı araç filomuzla her yolculuğunuzu keyifli hâle getiriyoruz.</p>
+
             <div class="seo-features-grid">
                 
-        <div class="seo-feature-card">
-            <div class="sf-icon"><i class="fas fa-headset"></i></div>
-            <h4>7/24 Destek</h4>
-            <p>Bize her zaman ulaşabilir, rezervasyon ve destek alabilirsiniz.</p>
-        </div>
-        
-        <div class="seo-feature-card">
-            <div class="sf-icon"><i class="fas fa-user-tie"></i></div>
-            <h4>Deneyimli Şoförler</h4>
-            <p>Bölgeyi çok iyi bilen güler yüzlü ekibimizle yola çıkın.</p>
-        </div>
-        
-        <div class="seo-feature-card">
-            <div class="sf-icon"><i class="fab fa-whatsapp"></i></div>
-            <h4>Hızlı Rezervasyon</h4>
-            <p>WhatsApp üzerinden tek tuşla, anında araç çağırın.</p>
-        </div>
-        
         <div class="seo-feature-card">
             <div class="sf-icon"><i class="fas fa-spray-can"></i></div>
             <h4>Hijyenik Araçlar</h4>
             <p>Tüm araçlarımız düzenli periyotlarla dezenfekte edilmektedir.</p>
         </div>
         
+        <div class="seo-feature-card">
+            <div class="sf-icon"><i class="fas fa-star"></i></div>
+            <h4>Deneyimli Kadro</h4>
+            <p>Yılların getirdiği tecrübe ile müşteri memnuniyetini garanti ediyoruz.</p>
+        </div>
+        
+        <div class="seo-feature-card">
+            <div class="sf-icon"><i class="fas fa-wallet"></i></div>
+            <h4>Ekonomik Transfer</h4>
+            <p>Bütçe dostu fiyatlarımız ile kaliteyi ucuza yaşayacaksınız.</p>
+        </div>
+        
+        <div class="seo-feature-card">
+            <div class="sf-icon"><i class="fas fa-stopwatch"></i></div>
+            <h4>Zamanında Hizmet</h4>
+            <p>Bekletmeden tam zamanında belirttiğiniz noktada oluyoruz.</p>
+        </div>
+        
             </div>
-            
+
+            <h3>Neden Girne Taksi'yi Seçmelisiniz?</h3>
+            <p>15 yılı aşkın sektör deneyimimiz, 50.000'den fazla memnun yolcumuz ve 25'ten fazla araçlık filomuzla Kuzey Kıbrıs'ın en köklü taksi hizmetiyiz. <strong>Ercan Havalimanı Taksi</strong> konusundaki uzmanlığımız, size sadece bir ulaşım değil; huzurlu ve güvenli bir yolculuk deneyimi sunar.</p>
+            <p>Tüm araçlarımız düzenli teknik bakımdan geçmekte, sigorta kapsamında tutulmakta ve hijyen standartlarına göre düzenli olarak temizlenmektedir. Şoförlerimiz profesyonel hizmet anlayışıyla; nazik, deneyimli ve bölgeyi iyi bilen kişilerden oluşmaktadır.</p>
+
             <h3>Nasıl Rezervasyon Yapabilirim?</h3>
-            <p>İster telefonla arayarak, ister WhatsApp destek hattımızdan bize 7 gün 24 saat ulaşabilirsiniz. Konumunuzu paylaştığınız anda size en yakın aracımız yola çıkacaktır. Fiyat onayı verildikten sonra kesinlikle sürpriz ücretlerle karşılaşmazsınız.</p>
-            
-            <div style="text-align:center; margin-top:2rem;">
-                 <a href="/" style="color:var(--seo-primary); font-weight:600; text-decoration:none;"><i class="fas fa-arrow-left"></i> Ana Sayfaya Dön ve Tüm Hizmetleri İncele</a>
+            <p>İster telefonla arayarak, ister WhatsApp destek hattımızdan bize 7 gün 24 saat ulaşabilirsiniz. Konumunuzu paylaştığınız anda size en yakın aracımız yola çıkar. Fiyat onayı verildikten sonra kesinlikle sürpriz ücretlerle karşılaşmazsınız.</p>
+
+            <div style="text-align:center;margin-top:2rem;">
+                <a href="/" style="color:var(--seo-primary);font-weight:600;text-decoration:none;"><i class="fas fa-arrow-left"></i> Girne Taksi Ana Sayfa — Tüm Hizmetlerimizi İnceleyin</a>
             </div>
         </main>
 
@@ -306,82 +197,79 @@
             <div class="sidebar-widget contact-widget">
                 <div class="contact-icon-bg"><i class="fas fa-taxi"></i></div>
                 <h3>Araç Çağırın</h3>
-                <p style="color:#64748b; margin-bottom:1.5rem; font-size:0.95rem;">Size en uygun aracı hemen yönlendirelim.</p>
-                <a href="tel:+905338593206" style="display:block; background:#1e293b; color:white; padding:1rem; border-radius:8px; text-decoration:none; font-weight:bold; margin-bottom:1rem;"><i class="fas fa-phone"></i> 0533 859 32 06</a>
+                <p style="color:#64748b;margin-bottom:1.5rem;font-size:0.95rem;">Size en uygun aracı hemen yönlendirelim.</p>
+                <a href="tel:+905338593206" style="display:block;background:#1e293b;color:white;padding:1rem;border-radius:8px;text-decoration:none;font-weight:bold;margin-bottom:0.75rem;text-align:center;"><i class="fas fa-phone"></i> 0533 859 32 06</a>
+                <a href="https://wa.me/905338593206" style="display:block;background:#25d366;color:white;padding:1rem;border-radius:8px;text-decoration:none;font-weight:bold;text-align:center;"><i class="fab fa-whatsapp"></i> WhatsApp</a>
             </div>
 
             <div class="sidebar-widget">
-                <h3>Diğer Hizmet Bölgelerimiz</h3>
+                <h3>Hizmet Bölgelerimiz</h3>
                 <ul class="sidebar-links">
                     <li><a href="https://www.girnetaksi.com.tr/girne-taksi-7-24/"><i class="fas fa-chevron-right"></i> Girne Taksi 7 24</a></li>
-<li><a href="https://www.girnetaksi.com.tr/kibris-taksi-ucretleri-2024/"><i class="fas fa-chevron-right"></i> Kibris Taksi Ucretleri 2024</a></li>
-<li><a href="https://www.girnetaksi.com.tr/girne-dogankoy-taksi/"><i class="fas fa-chevron-right"></i> Girne Dogankoy Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/ercan-havalimani-transfer/"><i class="fas fa-chevron-right"></i> Ercan Havalimani Transfer</a></li>
+<li><a href="https://www.girnetaksi.com.tr/kibris-taksi-ucretleri-2024/"><i class="fas fa-chevron-right"></i> Kıbrıs Taksi Ücretleri 2024</a></li>
+<li><a href="https://www.girnetaksi.com.tr/girne-dogankoy-taksi/"><i class="fas fa-chevron-right"></i> Girne Doğanköy Taksi</a></li>
+<li><a href="https://www.girnetaksi.com.tr/ercan-havalimani-transfer/"><i class="fas fa-chevron-right"></i> Ercan Havalimanı Transfer</a></li>
 <li><a href="https://www.girnetaksi.com.tr/cratos-hotel-casino-taksi/"><i class="fas fa-chevron-right"></i> Cratos Hotel Casino Taksi</a></li>
 <li><a href="https://www.girnetaksi.com.tr/kaya-palazzo-hotel-casino-taksi/"><i class="fas fa-chevron-right"></i> Kaya Palazzo Hotel Casino Taksi</a></li>
 <li><a href="https://www.girnetaksi.com.tr/dome-hotel-casino-taksi-transfer/"><i class="fas fa-chevron-right"></i> Dome Hotel Casino Taksi Transfer</a></li>
 <li><a href="https://www.girnetaksi.com.tr/girne-taksi-kktc/"><i class="fas fa-chevron-right"></i> Girne Taksi KKTC</a></li>
 <li><a href="https://www.girnetaksi.com.tr/elexus-hotel-casino-taksi/"><i class="fas fa-chevron-right"></i> Elexus Hotel Casino Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/girne-otellerine-taksi-fiyatlari/"><i class="fas fa-chevron-right"></i> Girne Otellerine Taksi Fiyatlari</a></li>
+<li><a href="https://www.girnetaksi.com.tr/girne-otellerine-taksi-fiyatlari/"><i class="fas fa-chevron-right"></i> Girne Otellerine Taksi Fiyatları</a></li>
 <li><a href="https://www.girnetaksi.com.tr/girne-liman-taksi/"><i class="fas fa-chevron-right"></i> Girne Liman Taksi</a></li>
 <li><a href="https://www.girnetaksi.com.tr/les-ambassadeurs-hotel-casino-taksi/"><i class="fas fa-chevron-right"></i> Les Ambassadeurs Hotel Casino Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/girne-karaoglanoglu-taksi/"><i class="fas fa-chevron-right"></i> Girne Karaoglanoglu Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/girne-magosa-arasi-taksi-ucreti/"><i class="fas fa-chevron-right"></i> Girne Magosa Arasi Taksi Ucreti</a></li>
-<li><a href="https://www.girnetaksi.com.tr/girne-arapkoy-taksi/"><i class="fas fa-chevron-right"></i> Girne Arapkoy Taksi</a></li>
+<li><a href="https://www.girnetaksi.com.tr/girne-karaoglanoglu-taksi/"><i class="fas fa-chevron-right"></i> Girne Karaöğlanoğlu Taksi</a></li>
+<li><a href="https://www.girnetaksi.com.tr/girne-magosa-arasi-taksi-ucreti/"><i class="fas fa-chevron-right"></i> Girne Mağosa Arası Taksi Ucreti</a></li>
+<li><a href="https://www.girnetaksi.com.tr/girne-arapkoy-taksi/"><i class="fas fa-chevron-right"></i> Girne Arapköy Taksi</a></li>
 <li><a href="https://www.girnetaksi.com.tr/merit-park-hotel-casino-taksi/"><i class="fas fa-chevron-right"></i> Merit Park Hotel Casino Taksi</a></li>
 <li><a href="https://www.girnetaksi.com.tr/girne-karmi-taksi/"><i class="fas fa-chevron-right"></i> Girne Karmi Taksi</a></li>
 <li><a href="https://www.girnetaksi.com.tr/girne-lapta-taksi/"><i class="fas fa-chevron-right"></i> Girne Lapta Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/girne-lefkosa-taksi-kac-tl/"><i class="fas fa-chevron-right"></i> Girne Lefkosa Taksi Kac Tl</a></li>
-<li><a href="http://www.girnetaksi.com.tr/"><i class="fas fa-chevron-right"></i> Www.Girnetaksi.Com.Tr</a></li>
+<li><a href="https://www.girnetaksi.com.tr/girne-lefkosa-taksi-kac-tl/"><i class="fas fa-chevron-right"></i> Girne Lefkoşa Taksi Kaç TL</a></li>
 <li><a href="https://www.girnetaksi.com.tr/girne-taksi-whatsapp/"><i class="fas fa-chevron-right"></i> Girne Taksi Whatsapp</a></li>
 <li><a href="https://www.girnetaksi.com.tr/chamada-prestige-hotel-casino-taksi/"><i class="fas fa-chevron-right"></i> Chamada Prestige Hotel Casino Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/girne-catalkoy-taksi/"><i class="fas fa-chevron-right"></i> Girne Catalkoy Taksi</a></li>
+<li><a href="https://www.girnetaksi.com.tr/girne-catalkoy-taksi/"><i class="fas fa-chevron-right"></i> Girne Çatalköy Taksi</a></li>
 <li><a href="https://www.girnetaksi.com.tr/girne-zeytinlik-taksi/"><i class="fas fa-chevron-right"></i> Girne Zeytinlik Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/ercan-havalimani-taksi/"><i class="fas fa-chevron-right"></i> Ercan Havalimani Taksi</a></li>
+<li><a href="https://www.girnetaksi.com.tr/ercan-havalimani-taksi/" style="color:var(--seo-primary);"><i class="fas fa-chevron-right"></i> Ercan Havalimanı Taksi</a></li>
 <li><a href="https://www.girnetaksi.com.tr/kombos-taksi-girne/"><i class="fas fa-chevron-right"></i> Kombos Taksi Girne</a></li>
 <li><a href="https://www.girnetaksi.com.tr/girne-taksi-haberleri/"><i class="fas fa-chevron-right"></i> Girne Taksi Haberleri</a></li>
-<li><a href="https://www.girnetaksi.com.tr/kibrista-taksi-pahali-mi/"><i class="fas fa-chevron-right"></i> Kibrista Taksi Pahali Mi</a></li>
+<li><a href="https://www.girnetaksi.com.tr/kibrista-taksi-pahali-mi/"><i class="fas fa-chevron-right"></i> Kıbrıs'ta Taksi Pahalı Mi</a></li>
 <li><a href="https://www.girnetaksi.com.tr/colony-hotel-casino-taksi-transfer/"><i class="fas fa-chevron-right"></i> Colony Hotel Casino Taksi Transfer</a></li>
 <li><a href="https://www.girnetaksi.com.tr/girne-vito-taksi/"><i class="fas fa-chevron-right"></i> Girne Vito Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/lefkosa-otellerine-taksi-fiyatlari/"><i class="fas fa-chevron-right"></i> Lefkosa Otellerine Taksi Fiyatlari</a></li>
+<li><a href="https://www.girnetaksi.com.tr/lefkosa-otellerine-taksi-fiyatlari/"><i class="fas fa-chevron-right"></i> Lefkoşa Otellerine Taksi Fiyatları</a></li>
 <li><a href="https://www.girnetaksi.com.tr/acapulco-hotel-casino-taksi/"><i class="fas fa-chevron-right"></i> Acapulco Hotel Casino Taksi</a></li>
 <li><a href="https://www.girnetaksi.com.tr/lords-palace-hotel-casino-taksi/"><i class="fas fa-chevron-right"></i> Lords Palace Hotel Casino Taksi</a></li>
 <li><a href="https://www.girnetaksi.com.tr/pia-bella-hotel-casino-taksi/"><i class="fas fa-chevron-right"></i> Pia Bella Hotel Casino Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/kibris-ilim-universitesi-taksi/"><i class="fas fa-chevron-right"></i> Kibris Ilim Universitesi Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/ercan-havalimani-girne-arasi-taksi-kac-tl/"><i class="fas fa-chevron-right"></i> Ercan Havalimani Girne Arasi Taksi Kac Tl</a></li>
+<li><a href="https://www.girnetaksi.com.tr/kibris-ilim-universitesi-taksi/"><i class="fas fa-chevron-right"></i> Kıbrıs Ilim Üniversitesi Taksi</a></li>
+<li><a href="https://www.girnetaksi.com.tr/ercan-havalimani-girne-arasi-taksi-kac-tl/"><i class="fas fa-chevron-right"></i> Ercan Havalimanı Girne Arası Taksi Kaç TL</a></li>
 <li><a href="https://www.girnetaksi.com.tr/girne-bellapais-taksi/"><i class="fas fa-chevron-right"></i> Girne Bellapais Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/uluslararasi-final-universitesi-taksi/"><i class="fas fa-chevron-right"></i> Uluslararasi Final Universitesi Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/girne-taksi-duraklari/"><i class="fas fa-chevron-right"></i> Girne Taksi Duraklari</a></li>
-<li><a href="https://www.girnetaksi.com.tr/girne-ozankoy-taksi/"><i class="fas fa-chevron-right"></i> Girne Ozankoy Taksi</a></li>
+<li><a href="https://www.girnetaksi.com.tr/uluslararasi-final-universitesi-taksi/"><i class="fas fa-chevron-right"></i> Uluslararası Final Üniversitesi Taksi</a></li>
+<li><a href="https://www.girnetaksi.com.tr/girne-taksi-duraklari/"><i class="fas fa-chevron-right"></i> Girne Taksi Durakları</a></li>
+<li><a href="https://www.girnetaksi.com.tr/girne-ozankoy-taksi/"><i class="fas fa-chevron-right"></i> Girne Özanköy Taksi</a></li>
 <li><a href="https://www.girnetaksi.com.tr/girne-karakum-taksi/"><i class="fas fa-chevron-right"></i> Girne Karakum Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/girne-bogazkoy-taksi/"><i class="fas fa-chevron-right"></i> Girne Bogazkoy Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/girne-amerikan-universitesi-taksi/"><i class="fas fa-chevron-right"></i> Girne Amerikan Universitesi Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/bafra-magosa-otellerine-taksi-fiyatlari/"><i class="fas fa-chevron-right"></i> Bafra Magosa Otellerine Taksi Fiyatlari</a></li>
-<li><a href="https://www.girnetaksi.com.tr/girne-taksi-iletisim/"><i class="fas fa-chevron-right"></i> Girne Taksi Iletisim</a></li>
-<li><a href="https://www.girnetaksi.com.tr/ercan-girne-arasi-ulasim/"><i class="fas fa-chevron-right"></i> Ercan Girne Arasi Ulasim</a></li>
+<li><a href="https://www.girnetaksi.com.tr/girne-bogazkoy-taksi/"><i class="fas fa-chevron-right"></i> Girne Boğazköy Taksi</a></li>
+<li><a href="https://www.girnetaksi.com.tr/girne-amerikan-universitesi-taksi/"><i class="fas fa-chevron-right"></i> Girne Amerikan Üniversitesi Taksi</a></li>
+<li><a href="https://www.girnetaksi.com.tr/bafra-magosa-otellerine-taksi-fiyatlari/"><i class="fas fa-chevron-right"></i> Bafra Mağosa Otellerine Taksi Fiyatları</a></li>
+<li><a href="https://www.girnetaksi.com.tr/girne-taksi-iletisim/"><i class="fas fa-chevron-right"></i> Girne Taksi İletişim</a></li>
+<li><a href="https://www.girnetaksi.com.tr/ercan-girne-arasi-ulasim/"><i class="fas fa-chevron-right"></i> Ercan Girne Arası Ulaşım</a></li>
 <li><a href="https://www.girnetaksi.com.tr/cimla-taksi-girne/"><i class="fas fa-chevron-right"></i> Cimla Taksi Girne</a></li>
-<li><a href="https://www.girnetaksi.com.tr/girne-taksi-numara/"><i class="fas fa-chevron-right"></i> Girne Taksi Numara</a></li>
-<li><a href="https://www.girnetaksi.com.tr/girne-taksi-firmasi/"><i class="fas fa-chevron-right"></i> Girne Taksi Firmasi</a></li>
+<li><a href="https://www.girnetaksi.com.tr/girne-taksi-numara/"><i class="fas fa-chevron-right"></i> Girne Taksi Numarası</a></li>
+<li><a href="https://www.girnetaksi.com.tr/girne-taksi-firmasi/"><i class="fas fa-chevron-right"></i> Girne Taksi Firması</a></li>
 <li><a href="https://www.girnetaksi.com.tr/girne-merkez-taksi/"><i class="fas fa-chevron-right"></i> Girne Merkez Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/category/genel/"><i class="fas fa-chevron-right"></i> Genel</a></li>
 <li><a href="https://www.girnetaksi.com.tr/girne-edremit-taksi/"><i class="fas fa-chevron-right"></i> Girne Edremit Taksi</a></li>
 <li><a href="https://www.girnetaksi.com.tr/girne-alsancak-taksi/"><i class="fas fa-chevron-right"></i> Girne Alsancak Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/girne-taksi-fiyatlari/"><i class="fas fa-chevron-right"></i> Girne Taksi Fiyatlari</a></li>
+<li><a href="https://www.girnetaksi.com.tr/girne-taksi-fiyatlari/"><i class="fas fa-chevron-right"></i> Girne Taksi Fiyatları</a></li>
 <li><a href="https://www.girnetaksi.com.tr/girne-ucuz-taksi/"><i class="fas fa-chevron-right"></i> Girne Ucuz Taksi</a></li>
-<li><a href="https://www.girnetaksi.com.tr/larnaka-havalimani-transfer/"><i class="fas fa-chevron-right"></i> Larnaka Havalimani Transfer</a></li>
-<li><a href="https://www.girnetaksi.com.tr/girne-taksi-kibris/"><i class="fas fa-chevron-right"></i> Girne Taksi Kibris</a></li>
-<li><a href="https://www.girnetaksi.com.tr/girne-taksi-duragi-2/"><i class="fas fa-chevron-right"></i> Girne Taksi Duragi 2</a></li>
+<li><a href="https://www.girnetaksi.com.tr/larnaka-havalimani-transfer/"><i class="fas fa-chevron-right"></i> Larnaka Havalimanı Transfer</a></li>
+<li><a href="https://www.girnetaksi.com.tr/girne-taksi-kibris/"><i class="fas fa-chevron-right"></i> Girne Taksi Kıbrıs</a></li>
+<li><a href="https://www.girnetaksi.com.tr/girne-taksi-duragi-2/"><i class="fas fa-chevron-right"></i> Girne Taksi Durağı 2</a></li>
 
                 </ul>
             </div>
         </aside>
     </div>
 
-    <!-- Footer -->
     <footer class="seo-footer">
         <p>&copy; 2024 <a href="/">Girne Taksi</a>. Tüm Hakları Saklıdır.</p>
-        <p style="font-size:0.85rem; margin-top:0.5rem; opacity:0.7;">Girne Taksi | Ercan Havalimanı Transfer | KKTC Taksi Hizmeti</p>
+        <p style="font-size:0.85rem;margin-top:0.5rem;opacity:0.7;">Girne Taksi | Ercan Havalimanı Transfer | KKTC Taksi Hizmeti</p>
     </footer>
-
 </body>
 </html>

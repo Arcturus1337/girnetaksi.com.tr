@@ -1,351 +1,574 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://www.girnetaksi.com.tr/</loc>
+        <lastmod>2026-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - 7/24 Güvenilir Taksi Hizmeti</image:title>
+        </image:image>
+    </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-taksi-7-24/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Taksi 7 24</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/kibris-taksi-ucretleri-2024/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Kibris Taksi Ucretleri 2024</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-dogankoy-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Dogankoy Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/ercan-havalimani-transfer/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/airport-transfer.png</image:loc>
+            <image:title>Girne Taksi - Ercan Havalimani Transfer</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/cratos-hotel-casino-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Cratos Hotel Casino Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/kaya-palazzo-hotel-casino-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Kaya Palazzo Hotel Casino Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/dome-hotel-casino-taksi-transfer/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/airport-transfer.png</image:loc>
+            <image:title>Girne Taksi - Dome Hotel Casino Taksi Transfer</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-taksi-kktc/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Taksi Kktc</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/elexus-hotel-casino-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Elexus Hotel Casino Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-otellerine-taksi-fiyatlari/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Otellerine Taksi Fiyatlari</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-liman-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Liman Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/les-ambassadeurs-hotel-casino-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Les Ambassadeurs Hotel Casino Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-karaoglanoglu-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Karaoglanoglu Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-magosa-arasi-taksi-ucreti/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Magosa Arasi Taksi Ucreti</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-arapkoy-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Arapkoy Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/merit-park-hotel-casino-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Merit Park Hotel Casino Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-karmi-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Karmi Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-lapta-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Lapta Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-lefkosa-taksi-kac-tl/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>http://www.girnetaksi.com.tr/</loc>
-        <lastmod>2026-03-15</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Lefkosa Taksi Kac Tl</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-taksi-whatsapp/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Taksi Whatsapp</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/chamada-prestige-hotel-casino-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Chamada Prestige Hotel Casino Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-catalkoy-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Catalkoy Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-zeytinlik-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Zeytinlik Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/ercan-havalimani-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/airport-transfer.png</image:loc>
+            <image:title>Girne Taksi - Ercan Havalimani Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/kombos-taksi-girne/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Kombos Taksi Girne</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-taksi-haberleri/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Taksi Haberleri</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/kibrista-taksi-pahali-mi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Kibrista Taksi Pahali Mi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/colony-hotel-casino-taksi-transfer/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/airport-transfer.png</image:loc>
+            <image:title>Girne Taksi - Colony Hotel Casino Taksi Transfer</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-vito-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Vito Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/lefkosa-otellerine-taksi-fiyatlari/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Lefkosa Otellerine Taksi Fiyatlari</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/acapulco-hotel-casino-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Acapulco Hotel Casino Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/lords-palace-hotel-casino-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Lords Palace Hotel Casino Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/pia-bella-hotel-casino-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Pia Bella Hotel Casino Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/kibris-ilim-universitesi-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Kibris Ilim Universitesi Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/ercan-havalimani-girne-arasi-taksi-kac-tl/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/airport-transfer.png</image:loc>
+            <image:title>Girne Taksi - Ercan Havalimani Girne Arasi Taksi Kac Tl</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-bellapais-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Bellapais Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/uluslararasi-final-universitesi-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Uluslararasi Final Universitesi Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-taksi-duraklari/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Taksi Duraklari</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-ozankoy-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Ozankoy Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-karakum-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Karakum Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-bogazkoy-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Bogazkoy Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-amerikan-universitesi-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Amerikan Universitesi Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/bafra-magosa-otellerine-taksi-fiyatlari/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Bafra Magosa Otellerine Taksi Fiyatlari</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-taksi-iletisim/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Taksi Iletisim</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/ercan-girne-arasi-ulasim/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Ercan Girne Arasi Ulasim</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/cimla-taksi-girne/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Cimla Taksi Girne</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-taksi-numara/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Taksi Numara</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-taksi-firmasi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Taksi Firmasi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-merkez-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://www.girnetaksi.com.tr/category/genel/</loc>
-        <lastmod>2026-03-15</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Merkez Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-edremit-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Edremit Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-alsancak-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Alsancak Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-taksi-fiyatlari/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Taksi Fiyatlari</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-ucuz-taksi/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Ucuz Taksi</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/larnaka-havalimani-transfer/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/airport-transfer.png</image:loc>
+            <image:title>Girne Taksi - Larnaka Havalimani Transfer</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-taksi-kibris/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Taksi Kibris</image:title>
+        </image:image>
     </url>
     <url>
         <loc>https://www.girnetaksi.com.tr/girne-taksi-duragi-2/</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Taksi Duragi 2</image:title>
+        </image:image>
     </url>
 </urlset>
