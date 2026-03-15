@@ -571,4 +571,34 @@
             <image:title>Girne Taksi - Girne Taksi Duragi 2</image:title>
         </image:image>
     </url>
+    <url>
+        <loc>https://www.girnetaksi.com.tr/girne-universitesi-taksi/</loc>
+        <lastmod>2026-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Girne Üniversitesi Taksi</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.girnetaksi.com.tr/kibrista-taksi-uygulamasi/</loc>
+        <lastmod>2026-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Kıbrıs'ta Taksi Uygulaması</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.girnetaksi.com.tr/merit-royal-hotel-casino-taksi/</loc>
+        <lastmod>2026-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.girnetaksi.com.tr/images/hero.png</image:loc>
+            <image:title>Girne Taksi - Merit Royal Hotel Casino Taksi</image:title>
+        </image:image>
+    </url>
 </urlset>
