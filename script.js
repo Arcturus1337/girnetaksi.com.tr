@@ -387,7 +387,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (message) whatsappMsg += `💬 Not: ${message}\n`;
 
             const encodedMsg = encodeURIComponent(whatsappMsg);
-            const whatsappUrl = `https://wa.me/905338593206?text=${encodedMsg}`;
+            const whatsappUrl = `https://wa.me/905391405001?text=${encodedMsg}`;
 
             // Show success and redirect
             showNotification('Yönlendiriliyorsunuz... WhatsApp açılıyor!', 'success');
